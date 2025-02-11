@@ -20,21 +20,21 @@ const Sideform = () => {
       country: countryRef.current.value,
     };
 
-    const response = await fetch(
-      "/api/lead.php",
-      {
-        method: "POST",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ ...data }),
-      }
-    );
+    const response = await fetch("/api/lead.php", {
+      method: "POST",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ ...data }),
+    });
 
     const result = await response.json();
 
-    if (result.code == 500) {
+    if (result.code === 500) {
+      {
+        /* Changed from == to === for strict equality check */
+      }
       toast.error(result.msg);
       return;
     }

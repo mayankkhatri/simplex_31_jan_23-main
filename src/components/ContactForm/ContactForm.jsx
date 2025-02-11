@@ -104,7 +104,7 @@ function ContactForm() {
               ></textarea>
             </div>
             <button className="btn my-4 form-btn">
-              {loading == true ? "waiting.." : "Sent Messages"}
+              {loading === true ? "waiting.." : "Sent Messages"}
             </button>
           </div>
         </div>
