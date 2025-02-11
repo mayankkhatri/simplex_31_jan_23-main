@@ -1,0 +1,60 @@
+.contact{
+    /* background: #f4f4f4cc; */
+    z-index: 0;
+}
+.firstsec.contact{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,7) 10%, rgba(0,0,0,0) 90%), url("../../../public/assets/contact/Image-8.png");
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sixthsec.contact label{
+    display: block;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.sixthsec.contact input{
+    width: 100%;
+    height: 60px;
+    background: #FFFFFF;
+border: 1px solid #E4EDFA;
+border-radius: 8px;
+padding: 10px;
+    
+}
+.sixthsec.contact input::placeholder{
+    padding-left: 10px;
+}
+.sixthsec.contact textarea{
+    height: 310px;
+    background: #FFFFFF;
+border: 1px solid #E4EDFA;
+border-radius: 8px;
+padding: 20px;
+    width: 100%;
+}
+.seventhsec.contact{
+    position: relative;
+    z-index: 3;
+}
+.seventhsec.contact .container{
+    background: white;
+    
+}
+.seventhsec.contact .container a{
+    font-size: 16px;
+    color: #0c6697;
+    font-weight: 700;
+}
+.seventhsec.contact .container .row .col-md-4 h5{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+.seventhsec.contact .container .row .col-md-4 p{
+    font-size: 15px;
+    color: #000;
+}
+.contact .seventhsec{
+z-index: 0;
+}

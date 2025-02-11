@@ -1,0 +1,290 @@
+@media screen and (max-width: 1050px) {
+    .seventhsec .container .top .email-sub input {
+        width: 230px;
+    }
+
+    .firstsec {
+        height: 580px;
+    }
+
+    .immigration-top {
+        height: 60px;
+    }
+
+    .firstsec .container .row .col-12 {
+        height: 580px;
+    }
+
+    .firstsec .container .row .col-12 h2 {
+        font-size: 40px;
+    }
+
+    .secondsec .container {
+        height: fit-content;
+
+    }
+
+    div.home>section.fourthsec>div.bg-box {
+        width: 207px;
+        height: 400px;
+        top: 130px;
+        left: 0;
+    }
+
+    .thirdsec>.container-fluid>.head {
+        width: 100%;
+        margin: 0;
+    }
+
+    .thirdsec>.container-fluid>.body .slider {
+        margin: 0;
+    }
+
+    .thirdsec .slider .arrow {
+        position: absolute;
+        top: -10px;
+        right: 10px;
+    }
+
+    .thirdsec .slider .arrow.prev-button {
+        right: 60px;
+    }
+
+    .fourthsec {
+        margin: 50px 0;
+    }
+
+    .fourthsec .container .row .col-12 {
+        display: flex;
+        justify-content: start;
+        flex-direction: column;
+        height: fit-content;
+        margin-bottom: 50px;
+    }
+
+    section p.detail {
+        font-size: 15px;
+    }
+
+    .fifthsec .body .img-card img {
+        max-width: 280px;
+    }
+
+    .sixthsec .slider .card {
+        height: fit-content;
+    }
+
+    .seventhsec .container>.top {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .blog_secondsec .container .card-container .blog-popular-card {
+        max-height: fit-content;
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        background-color: #fff;
+    }
+
+    .blog_secondsec .container .card-container .blog-popular-card .left {
+        width: 400px;
+        height: 400px;
+        background: #E2E2EA;
+        display: flex;
+    }
+
+    .blog_secondsec .container .card-container .blog-popular-card .right {
+        width: 100%;
+        display: flex;
+        padding: 40px 20px;
+        flex-direction: column;
+        padding-right: 20px;
+    }
+
+    div.aboutus>section.fourthsec.about>div.bg-box {
+        width: 230px;
+        height: 430px;
+        top: auto;
+        bottom: 0;
+    }
+}
+
+
+@media (max-width:767px) {
+    .firstsec.contact{
+        background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,7) 10%, rgba(0,0,0,0) 90%), url(http://localhost:3000/static/media/Image-8.caff704c2a1c0580f887.png);
+        background-repeat: no-repeat;
+        /* height: 579px; */
+        background-position: 70% 0%;
+    }
+    .firstsec.about {
+        background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,7) 10%, rgba(0,0,0,0) 90%), url(http://localhost:3000/static/media/Image7.14d4764db5557d3292f4.png);
+        background-repeat: no-repeat;
+        /* height: 579px; */
+        background-position: 70% -65%;
+    }
+    .seventhsec .container>.top.HOME {
+        padding: 50px 0;
+    }
+    .card > .body > h4 {
+        font-size: 20px;
+    }
+    .about_secondsec .mission {
+        margin-top: 50px;
+    }
+
+    div.aboutus>section.about_secondsec.py-5 {
+        padding-bottom: 0 !important;
+    }
+
+    .seventhsec .container .top .row .col-12 .footer {
+        font-size: 15px;
+    }
+
+    .immigration h1 {
+        font-size: 30px;
+    }
+
+    .immigration h2 {
+        font-size: 25px;
+    }
+
+    .immigration h3 {
+        font-size: 20px;
+    }
+
+    /* .immigration p {
+        font-size: 16px;
+    } */
+
+    .immigration ul li {
+        font-size: 16px;
+    }
+    .getpopup .modal-dialog-centered {
+        min-height: calc(76% - var(--bs-modal-margin) * 2);
+    }
+}
+
+
+
+@media screen and (max-width: 576px) {
+
+    .seventhsec .container .top .row .col-12.left {
+        padding-left: 0;
+        height: 250px;
+    }
+
+    .secondsec .container {
+        height: fit-content;
+
+    }
+
+    .home>.thirdsec>.container-fluid>.body>.slider>.bg-vector {
+        left: -10px;
+    }
+
+    .home>.thirdsec>.bg-box {
+        width: 230px;
+        height: 530px;
+
+    }
+
+    div.service>section.thirdsec>div.bg-box {
+        width: 230px;
+        height: 530px;
+        bottom: 50px;
+
+    }
+
+    div.home>section.fourthsec>div.bg-box {
+        width: 230px;
+        height: 250px;
+        top: 120px;
+    }
+
+    section.seventhsec.bg-white.py-md-5.py-2>img {
+        bottom: -25px;
+        right: 9px;
+    }
+
+    .seventhsec .container .top .row .col-12.right {
+        padding-left: 0;
+        height: 350px;
+    }
+
+    .seventhsec .container>.top {
+        height: fit-content;
+        text-align: center;
+    }
+
+    .seventhsec .container .top .sub-heading {
+        font-size: 30px;
+    }
+
+    .seventhsec .container .top .detail {
+        margin-bottom: 20px;
+    }
+
+    .footer .bottom .container .bottom p {
+        font-size: 15px;
+    }
+
+    .footer .bottom {
+        margin-top: 30px;
+    }
+
+    .blog_secondsec .container .card-container .blog-popular-card {
+        max-height: fit-content;
+        width: 280px;
+        display: flex;
+        flex-direction: column;
+        background-color: #fff;
+    }
+
+    .blog_secondsec .container .card-container .blog-popular-card .left {
+        width: 280px;
+        height: 280px;
+        background: #E2E2EA;
+        display: flex;
+    }
+
+    .blog_thirdsec .container .card-container .blog-card {
+        width: 280px;
+    }
+
+    .blog_thirdsec .container .card-container .blog-card .top {
+        width: 280px;
+    }
+
+    .bg-vector {
+        max-width: 55px;
+    }
+
+    section.seventhsec.bg-white.py-md-5.py-2>img.bg-vector.third {
+        bottom: 50px;
+        z-index: 2;
+        left: 5px;
+    }
+
+    section.seventhsec.bg-white.py-md-5.py-2>div.bg-box {
+        width: 250px;
+        height: 100px;
+        right: 0;
+        top: -20px;
+    }
+
+    div.service>section.seventhsec.pt-5.bg-white>img.bg-vector.second {
+        bottom: -20px;
+    }
+
+    div.service>section.thirdsec.py-5>img {
+        left: 25px;
+    }
+
+    div.aboutus>section.fourthsec.about>div.bg-box {
+        height: 300px;
+        top: auto;
+        bottom: 0;
+    }
+}

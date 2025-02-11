@@ -1,0 +1,170 @@
+
+.service{
+    /* background: #E5E5E5; */
+    z-index: 0;
+    position: relative;
+}
+.firstsec.service{
+    
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,7) 10%, rgba(0,0,0,0) 90%), url('../../../public/assets/servicepage/Image-5.png');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.firstsec .container .row .col-12{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover{
+    background: #0c6697;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover > div.head > div.img-container{
+    background: #fff;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover h4{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover p{
+    color: #e1e1e1;
+    font-size: 15px;
+    font-weight: 500;
+}
+div.service > section.fifthsec.service > div > div.body > div.card > div.head > div.img-container img{
+    width: 25px;
+    height: 25px;
+}
+div.service > section.fifthsec.service > div > div.body > div.card > div.head > div.img-container img.deactive{
+    display: block;
+}
+div.service > section.fifthsec.service > div > div.body > div.card > div.head > div.img-container img.active{
+    display: none;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover > div.head > div.img-container img.deactive{
+    display: none;
+}
+div.service > section.fifthsec.service > div > div.body > div.card:hover > div.head > div.img-container img.active{
+    display: block;
+}
+.firstsec .container .row .col-12 h2{
+    font-size: 60px;
+    color: white;
+    font-weight: 700;
+
+}
+.firstsec .container .row .col-12 p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.806);
+    font-weight: 500;
+
+}
+div.service > section.fifthsec.last > div > div.body > div:hover{
+    background: #0c6697;
+}
+div.service > section.fifthsec.last > div > div.body > div:hover > div.body > h4{
+    color: #fff;
+}
+div.service > section.fifthsec.last > div > div.body > div:hover > div.body > p{
+    color: rgba(255, 255, 255, 0.792);
+}
+.btn{
+    width: 200px;
+    padding: 15px 0;
+}
+.service .card{
+    max-width: 380px;
+}
+.secondsec .container{
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.secondsec .container img{
+    max-width: 175px;
+}
+
+.fifthsec.last .container .body .card {
+    display: block;
+    padding: 0;
+    height: 320px;
+} 
+.fifthsec.last .container .body .card .head{
+    overflow: hidden;
+    height: 100px;
+} 
+.fifthsec.last .container .body .card .head img{
+    object-fit: contain;
+    
+} 
+ 
+.fifthsec.last .container .body .card .body{
+    padding: 20px;
+    display: block;
+    margin: 0;
+} 
+.fifthsec.service .container .body .card .body{
+    justify-content: start;
+    margin: 0;
+} 
+section.fifthsec.service > img{
+    top: 190px;
+    right: 45px;
+}
+div.service > section.thirdsec{
+    position: relative;
+}
+div.service > section.thirdsec > div.bg-box{
+    width: 400px;
+    height: 700px;
+    background-color: #E4EDFA;
+    bottom: 0;
+    z-index: -1;
+    right: 0;
+}
+div.service > section.thirdsec.py-5 > img{
+    bottom: 70px;
+    left: 75px;
+}
+.seventhsec .container .top .row .col-12.left{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 150px;
+}
+.seventhsec .container .top .row .col-12.right{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seventhsec .container .top .row .col-12.right > div{
+    display: flex;
+    width: fit-content;
+}
+.seventhsec .container .top .row .col-12 .header {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.seventhsec .container .top .row .col-12 .footer {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+section.seventhsec.pt-5.bg-white > img.bg-vector.fourth {
+    right: 120px;
+    top: 20px;
+}
+section.seventhsec.pt-5.bg-white > img.bg-vector.fifth{
+    bottom: -62px;
+}
+
+
+

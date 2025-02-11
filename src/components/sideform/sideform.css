@@ -1,0 +1,51 @@
+
+
+.sideform {
+    background: #0c6697;
+    border-color: #0c6697;
+    padding: 30px;
+}
+.sideform h4 {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: #fff;
+}
+.sideform .form-control {
+    border-radius: unset;
+}
+.sideform .form-control::placeholder{
+    color: #000;
+    font-size: 15px;
+}
+
+.sideform .form-select{
+    border-radius: unset;
+    font-size: 15px;
+}
+.sideform button{
+    background: #FF4948;
+    border: 1px solid #FF4948;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    font-size: 18px;
+}
+.sideform p.terms {
+    font-size: 12px;
+}
+.sideform select option {
+    background: #fff;
+    color: #000;
+}
+
+.sideform select:focus{
+    box-shadow: unset;
+}
+
+.sideform select:required:invalid {
+    color: #000;
+  }
+  .sideform option[value=""][disabled] {
+    display: none;
+  }

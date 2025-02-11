@@ -1,0 +1,78 @@
+* {
+    font-family: 'Mulish', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Crimson Text", serif;
+    font-style: normal;
+}
+h1,h2{
+    font-weight: 700;
+}
+h3,h4{
+    font-weight: 500;
+}
+
+html {
+    font-size: 20px;
+}
+
+a.btn {
+    background: #FF4948;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    z-index: 1;
+}
+
+button.form-btn {
+    background: #FF4948;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    z-index: 1;
+}
+
+a.btn.active {
+    background: #FF4948;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    z-index: 1;
+}
+
+.bg-box {
+    position: absolute;
+    background: #E4EDFA;
+    z-index: -1;
+}
+
+.bg-vector {
+    z-index: -1;
+    position: absolute;
+}
+
+.immigration-top {
+    height: 120px;
+}
+
+input::placeholder {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.immigration h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.immigration h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
