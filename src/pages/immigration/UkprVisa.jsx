@@ -10,8 +10,8 @@ const UkprVisa = () => {
         <div className="row">
           <div className="col-md-8">
             <h1>
-              UK Immigration Consultants in Delhi NCR - Highly Skilled Immigration Visa
-              Program
+              UK Immigration Consultants in Delhi NCR - Highly Skilled
+              Immigration Visa Program
             </h1>
             {/* <p>
           One of the most influential and preferred destinations across the
@@ -38,27 +38,28 @@ const UkprVisa = () => {
         </p> */}
             <p>
               UK is an epicentre of immigrants wherein people from diverse
-              communities come and settle here along with their families either on
-              Work visa, study visa as these provide a direct route to permanent
-              residency in UK. It is important for us to learn how UK Immigration
-              has shifted and there are no better people to explain than the UK
-              Immigration Consultants in Delhi.
+              communities come and settle here along with their families either
+              on Work visa, study visa as these provide a direct route to
+              permanent residency in UK. It is important for us to learn how UK
+              Immigration has shifted and there are no better people to explain
+              than the UK Immigration Consultants in Delhi.
             </p>
             <p>
               This highly developed western nation boasts of a robust economy,
-              proffers superior lifestyle, vast business opportunities, a plethora
-              of employment opportunities, unique infrastructure &amp; public
-              transportations, not-too-high personal taxation, impressive law &amp;
-              order, apart from an array of public welfare schemes. These combined
-              together make the country one of the most preferred immigration
-              destinations across the globe.
+              proffers superior lifestyle, vast business opportunities, a
+              plethora of employment opportunities, unique infrastructure &amp;
+              public transportations, not-too-high personal taxation, impressive
+              law &amp; order, apart from an array of public welfare schemes.
+              These combined together make the country one of the most preferred
+              immigration destinations across the globe.
               <br />
               <br />
-              Skilled workers from across the globe find the country the best place
-              to exhibit their expertise, acquire widespread name &amp; fame even as
-              they enjoy a peaceful &amp; prosperous life therein. For the world
-              immigrants, the <strong>UK immigration program</strong> is the best
-              choice for study, business, employment, and/or settlement purposes.
+              Skilled workers from across the globe find the country the best
+              place to exhibit their expertise, acquire widespread name &amp;
+              fame even as they enjoy a peaceful &amp; prosperous life therein.
+              For the world immigrants, the{" "}
+              <strong>UK immigration program</strong> is the best choice for
+              study, business, employment, and/or settlement purposes.
             </p>
             {/* <h2>Population &amp; Geography</h2>
         <p>
@@ -81,22 +82,23 @@ const UkprVisa = () => {
         </p> */}
             <h2>UK Culture &amp; Lifestyle</h2>
             <p>
-              The overall quality of life and the living standard of the nationals
-              of the UK is regarded one of the best in the world. London is
-              celebrated for its high fashion culture, stock market, &amp; commerce
-              goings-on. A large number of migrants from all across the globe wish
-              to make London their home, for obvious purposes.
+              The overall quality of life and the living standard of the
+              nationals of the UK is regarded one of the best in the world.
+              London is celebrated for its high fashion culture, stock market,
+              &amp; commerce goings-on. A large number of migrants from all
+              across the globe wish to make London their home, for obvious
+              purposes.
               <br />
               <br />
               Every key living aspect, like home, work, safety, society, law,
-              education, entertainment, &amp; healthcare are at its best and most
-              appealing in the country. The nation’s Permanent Residents are
-              proffered essential public healthcare that too absolutely free. Many
-              of the globe’s well-known sport shows are organized in the country
-              with the BPL Football season, Cricket, Golf, Tennis (Wimbledon), Rugby
-              being just some of them. The migrants to the country get every
-              possible facilities, luxuries, and things for which they immigrate to
-              the country.
+              education, entertainment, &amp; healthcare are at its best and
+              most appealing in the country. The nation’s Permanent Residents
+              are proffered essential public healthcare that too absolutely
+              free. Many of the globe’s well-known sport shows are organized in
+              the country with the BPL Football season, Cricket, Golf, Tennis
+              (Wimbledon), Rugby being just some of them. The migrants to the
+              country get every possible facilities, luxuries, and things for
+              which they immigrate to the country.
             </p>
             {/* <h2>UK Economy</h2>
         <p>
@@ -142,24 +144,25 @@ const UkprVisa = () => {
         </p> */}
             <h2>Employment &amp; Working Conditions</h2>
             <p>
-              The <strong>UK Work Visas </strong>are usually much sought after by
-              the world migrants keen to shift to an overseas country through the
-              skilled UK&nbsp;Immigration Programs
-              . London safeguards the right of its workers, via slapping strict
-              employment rules &amp; salary criteria.
+              The <strong>UK Work Visas </strong>are usually much sought after
+              by the world migrants keen to shift to an overseas country through
+              the skilled UK&nbsp;Immigration Programs . London safeguards the
+              right of its workers, via slapping strict employment rules &amp;
+              salary criteria.
             </p>
             <p>
-              There is a mandatory rest period for workers which is up to 4 hours of
-              work every day and a minimum of one day of rest per week. Also there
-              is an additional pay for overtime work and laws speak of full-time
-              workers to get minimum of 4 weeks paid vacation each year.
+              There is a mandatory rest period for workers which is up to 4
+              hours of work every day and a minimum of one day of rest per week.
+              Also there is an additional pay for overtime work and laws speak
+              of full-time workers to get minimum of 4 weeks paid vacation each
+              year.
               <br />
               <br />
               Nearly every employee enjoys the right to not less than 4 weeks of
-              fully paid leave per annum, illness pay, &amp; maternity or paternity
-              leave. It’s the duty of the recruiters/firms to take care of its
-              workers’ health &amp; safety. The UK job and income conditions are
-              regarded to be one of the best in the world.
+              fully paid leave per annum, illness pay, &amp; maternity or
+              paternity leave. It’s the duty of the recruiters/firms to take
+              care of its workers’ health &amp; safety. The UK job and income
+              conditions are regarded to be one of the best in the world.
             </p>
             {/* <h2>UK Immigration Programs</h2>
         <p>
@@ -180,23 +183,69 @@ const UkprVisa = () => {
           choose to call us directly interact with the
           expert through our Live Chat window.
         </p> */}
-            <p>The United Kingdom offers a variety of immigration programs for individuals looking to live and work in the country. Some of the most popular programs include:</p>
-            <p>Tier 1 (Entrepreneur) Visa: This program is for individuals who wish to set up or run a business in the UK. It allows entrepreneurs to enter or remain in the UK for a period of up to 3 years and 4 months.</p>
-            <p>Tier 1 (Investor) Visa: This program is for high net worth individuals who wish to invest a minimum of £2 million in the UK. It allows investors to enter or remain in the UK for a period of up to 3 years and 4 months.</p>
-            <p>Tier 2 (General) Visa: This program is for skilled workers who have been offered a job in the UK. It allows workers to enter or remain in the UK for a period of up to 5 years.</p>
-            <p>Tier 5 (Youth Mobility) Visa: This program is for young people who want to live and work in the UK for up to 2 years. It is open to citizens of participating countries including Australia, Canada, Japan, and New Zealand.</p>
-            <p>Tier 4 (Student) Visa: This program is for students who wish to study in the UK at a recognized institution. It allows students to enter or remain in the UK for the duration of their course.</p>
-            <p>Family of a settled person visa: This program allows family members of a settled person in the UK to join them in the UK.</p>
-            <p>These are some of the main UK immigration programs, However, there are other programs that may also be relevant depending on your situation. It's important to consult with an immigration professional to find the best program for you.Let us send you a quotation</p>
-            <p>If you need more information about our immigration services, please don't hesitate to reach out to us. You can send an email to
-              <Link to="mailto:info@simplex-immigration.com"> info@simplex-immigration.com</Link>, and one of our experts will get back to you promptly. Alternatively, you can call us directly at
-              <Link to="tel:+91-9971223202"> +91-9971223202 </Link> to speak with an expert and get answers to any questions or concerns you may have. Let us help guide you through the immigration process and make it as seamless as possible.</p>
+            <p>
+              The United Kingdom offers a variety of immigration programs for
+              individuals looking to live and work in the country. Some of the
+              most popular programs include:
+            </p>
+            <p>
+              Tier 1 (Entrepreneur) Visa: This program is for individuals who
+              wish to set up or run a business in the UK. It allows
+              entrepreneurs to enter or remain in the UK for a period of up to 3
+              years and 4 months.
+            </p>
+            <p>
+              Tier 1 (Investor) Visa: This program is for high net worth
+              individuals who wish to invest a minimum of £2 million in the UK.
+              It allows investors to enter or remain in the UK for a period of
+              up to 3 years and 4 months.
+            </p>
+            <p>
+              Tier 2 (General) Visa: This program is for skilled workers who
+              have been offered a job in the UK. It allows workers to enter or
+              remain in the UK for a period of up to 5 years.
+            </p>
+            <p>
+              Tier 5 (Youth Mobility) Visa: This program is for young people who
+              want to live and work in the UK for up to 2 years. It is open to
+              citizens of participating countries including Australia, Canada,
+              Japan, and New Zealand.
+            </p>
+            <p>
+              Tier 4 (Student) Visa: This program is for students who wish to
+              study in the UK at a recognized institution. It allows students to
+              enter or remain in the UK for the duration of their course.
+            </p>
+            <p>
+              Family of a settled person visa: This program allows family
+              members of a settled person in the UK to join them in the UK.
+            </p>
+            <p>
+              These are some of the main UK immigration programs, However, there
+              are other programs that may also be relevant depending on your
+              situation. It's important to consult with an immigration
+              professional to find the best program for you.Let us send you a
+              quotation
+            </p>
+            <p>
+              If you need more information about our immigration services,
+              please don't hesitate to reach out to us. You can send an email to
+              <Link to="mailto:info@simpleximmigration.com">
+                {" "}
+                info@simpleximmigration.com
+              </Link>
+              , and one of our experts will get back to you promptly.
+              Alternatively, you can call us directly at
+              <Link to="tel:+91-9971223202"> +91-9971223202 </Link> to speak
+              with an expert and get answers to any questions or concerns you
+              may have. Let us help guide you through the immigration process
+              and make it as seamless as possible.
+            </p>
           </div>
 
           <div className="col-md-4">
             <Sideform />
           </div>
-
         </div>
       </div>
     </div>

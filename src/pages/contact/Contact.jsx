@@ -74,7 +74,7 @@ const Contact = () => {
                       alt="Mail Icon" // Added alt text
                     />
                   </p>
-                  <p>info@simplex-immigration.com</p>
+                  <p>info@simpleximmigration.com</p>
                 </div>
                 {/* Removed NavLink for Google Maps */}
               </div>
