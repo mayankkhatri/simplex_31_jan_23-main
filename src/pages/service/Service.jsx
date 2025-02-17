@@ -7,10 +7,9 @@ import "swiper/css/navigation";
 // import { Link } from "react-router-dom";
 
 const Service = () => {
-
-  const navigationPrevRef = React.useRef(null)
-  const navigationNextRef = React.useRef(null)
-  const swiperRef = React.useRef(null)
+  const navigationPrevRef = React.useRef(null);
+  const navigationNextRef = React.useRef(null);
+  const swiperRef = React.useRef(null);
 
   return (
     <>
@@ -21,7 +20,9 @@ const Service = () => {
               <div className="col-12 col-md-6">
                 <h2 className="heading">Our Best Services! </h2>
                 <p className="detail">
-                  Our immigration services company offers a wide range of features to help individuals and businesses navigate the complex immigration process
+                  Our immigration services company offers a wide range of
+                  features to help individuals and businesses navigate the
+                  complex immigration process
                 </p>
               </div>
             </div>
@@ -45,10 +46,14 @@ const Service = () => {
                 <div className="col-md-6 col-12">
                   <h5 className="heading">Features</h5>
                   <h3 className="sub-heading">
-                    Expert immigration services for a smooth and successful application process
+                    Expert immigration services for a smooth and successful
+                    application process
                   </h3>
                   <p className="detail">
-                    Our immigration services company offers a wide range of features to help individuals and businesses navigate the complex immigration process. Some of our key features include:
+                    Our immigration services company offers a wide range of
+                    features to help individuals and businesses navigate the
+                    complex immigration process. Some of our key features
+                    include:
                   </p>
                 </div>
               </div>
@@ -72,14 +77,15 @@ const Service = () => {
                 <div className="body">
                   <h4 className="">Expert guidance and support</h4>
                   <p className="">
-                    Our team of experienced and certified immigration professionals will guide you through the entire immigration process and provide you with expert advice and support.
+                    Our team of experienced and certified immigration
+                    professionals will guide you through the entire immigration
+                    process and provide you with expert advice and support.
                   </p>
                 </div>
               </div>
               <div className="card">
                 <div className="head">
                   <div className="img-container">
-
                     <img
                       src="assets/icons/clock.png"
                       alt=""
@@ -94,14 +100,16 @@ const Service = () => {
                 </div>
                 <div className="body">
                   <h4 className="">Efficient processing</h4>
-                  <p className="">We pride ourselves on our efficient and timely processing of immigration applications, ensuring that your application is complete and accurate, increasing your chances of success.
+                  <p className="">
+                    We pride ourselves on our efficient and timely processing of
+                    immigration applications, ensuring that your application is
+                    complete and accurate, increasing your chances of success.
                   </p>
                 </div>
               </div>
               <div className="card">
                 <div className="head">
                   <div className="img-container">
-
                     <img
                       src="assets/icons/clock.png"
                       alt=""
@@ -117,14 +125,15 @@ const Service = () => {
                 <div className="body">
                   <h4 className="">Comprehensive services</h4>
                   <p className="">
-                    We offer a range of services including assistance with study permits, work permits, permanent residence applications, and more.
+                    We offer a range of services including assistance with study
+                    permits, work permits, permanent residence applications, and
+                    more.
                   </p>
                 </div>
               </div>
               <div className="card">
                 <div className="head">
                   <div className="img-container">
-
                     <img
                       src="assets/icons/clock.png"
                       alt=""
@@ -140,14 +149,15 @@ const Service = () => {
                 <div className="body">
                   <h4 className="">Personalized approach</h4>
                   <p className="">
-                    We take a personalized approach to immigration, ensuring that your unique needs and circumstances are taken into account.
+                    We take a personalized approach to immigration, ensuring
+                    that your unique needs and circumstances are taken into
+                    account.
                   </p>
                 </div>
               </div>
               <div className="card">
                 <div className="head">
                   <div className="img-container">
-
                     <img
                       src="assets/icons/clock.png"
                       alt=""
@@ -163,14 +173,14 @@ const Service = () => {
                 <div className="body">
                   <h4 className="">Document preparation</h4>
                   <p className="">
-                    We prepare all the required documents and ensure that they are in the right format and with the right information.
+                    We prepare all the required documents and ensure that they
+                    are in the right format and with the right information.
                   </p>
                 </div>
               </div>
               <div className="card">
                 <div className="head">
                   <div className="img-container">
-
                     <img
                       src="assets/icons/clock.png"
                       alt=""
@@ -186,7 +196,9 @@ const Service = () => {
                 <div className="body">
                   <h4 className="">Stay up-to-date</h4>
                   <p className="">
-                    We stay up-to-date with the latest immigration policies and regulations to ensure that your application is in compliance with current laws and requirements.
+                    We stay up-to-date with the latest immigration policies and
+                    regulations to ensure that your application is in compliance
+                    with current laws and requirements.
                   </p>
                 </div>
               </div>
@@ -198,12 +210,13 @@ const Service = () => {
             <div className="head">
               <h5 className="heading">Our Services</h5>
               <h3 className="sub-heading">
-                Expert immigration services for a smooth and successful application process
+                Expert immigration services for a smooth and successful
+                application process
               </h3>
               <p className="detail">
                 Simplex Global Immigration (SGI) provide paramount services for
-                residence, temporary visas,short-term visa,family visa,study visa
-                and much more.
+                residence, temporary visas,short-term visa,family visa,study
+                visa and much more.
               </p>
             </div>
             <div className="body">
@@ -213,7 +226,6 @@ const Service = () => {
                   slidesPerView={1.3}
                   loop={true}
                   breakpoints={{
-
                     768: {
                       slidesPerView: 2.3,
                       spaceBetween: 40,
@@ -246,7 +258,9 @@ const Service = () => {
                       <div className="body">
                         <h4 className="">Job Search Services</h4>
                         <p className="">
-                          Job Search Strategy Report: With the help of experts, we create a comprehensive report based on your profile and decide on positioning it in your target country.
+                          Job Search Strategy Report: With the help of experts,
+                          we create a comprehensive report based on your profile
+                          and decide on positioning it in your target country.
                         </p>
                       </div>
                     </div>
@@ -270,7 +284,9 @@ const Service = () => {
                       <div className="body">
                         <h4 className="">Resume Writing Services</h4>
                         <p className="">
-                          We identify industry trends and job sources to get you more job offers. We help you modify your profile to present it on different platforms.
+                          We identify industry trends and job sources to get you
+                          more job offers. We help you modify your profile to
+                          present it on different platforms.
                         </p>
                       </div>
                     </div>
@@ -294,7 +310,9 @@ const Service = () => {
                       <div className="body">
                         <h4 className="">Opportunity Search</h4>
                         <p className="">
-                          We ensure that your resume meets international standards, showcases your strengths and build a strong candidature.
+                          We ensure that your resume meets international
+                          standards, showcases your strengths and build a strong
+                          candidature.
                         </p>
                       </div>
                     </div>
@@ -352,14 +370,25 @@ const Service = () => {
                     </div>
                   </SwiperSlide> */}
                 </Swiper>
-                <NavLink className='arrow prev-button' ref={navigationPrevRef} onClick={() => swiperRef.current?.slidePrev()}><img src="assets/icons/Button.png" alt="hjh" /></NavLink>
-                <NavLink className='arrow next-button' ref={navigationNextRef} onClick={() => swiperRef.current?.slideNext()}><img src="assets/icons/Button1.png" alt="jhj" /></NavLink>
+                <NavLink
+                  className="arrow prev-button"
+                  ref={navigationPrevRef}
+                  onClick={() => swiperRef.current?.slidePrev()}
+                >
+                  <img src="assets/icons/Button.png" alt="hjh" />
+                </NavLink>
+                <NavLink
+                  className="arrow next-button"
+                  ref={navigationNextRef}
+                  onClick={() => swiperRef.current?.slideNext()}
+                >
+                  <img src="assets/icons/Button1.png" alt="jhj" />
+                </NavLink>
               </div>
             </div>
           </div>
           <div className="bg-box"></div>
           <img src="assets/icons/Ornament.png" alt="" className="bg-vector" />
-
         </section>
         {/* <section className="fifthsec last">
           <div className="container">
